@@ -53,3 +53,22 @@ hr {
         padding: 3em 0;
     }
 }
+.rodapepadrao {
+  text-align: justify;
+  font-size:14px;
+  padding: 5px 5px;
+  background: linear-gradient(to bottom, #eea3a3 0%,#490606 100%);
+  margin-top:15px;
+  color: black;
+  vertical-align: displayHeight;
+  height: height;
+  width: displayWidth;
+}
+
+
+.copyright {
+    text-align:center;
+	color: black;
+	font-size: 16px;
+	margin: 0px 0px;
+}
