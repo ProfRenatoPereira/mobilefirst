@@ -46,7 +46,7 @@
 .lista-menu__titulo,
 .lista-menu__item {
     padding: 1em;
-    background-color: var(--branco);
+   background: linear-gradient(to bottom, #eea3a3 0%,#490606 100%);
 }
 
 .lista-menu__titulo {
@@ -55,7 +55,7 @@
 }
 
 .lista-menu__link {
-    background: var(--azul-degrade);
+    background: linear-gradient(to bottom, #eea3a3 0%,#490606 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
