@@ -1,5 +1,5 @@
 .tópicos {
-    background: var(--azul-degrade);
+    background: linear-gradient(to bottom, #eea3a3 0%,#490606 100%);
     text-align: center;
     padding: 1em 0;
 }
@@ -23,7 +23,7 @@
 .tópicos__link {
     color: var(--branco);
     padding: 1em;
-    background-color: var(--laranja);
+    background-color: "#8b0000";
     text-decoration: none;
     font-size: 14px;
     font-weight: 700;
